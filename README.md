@@ -11,6 +11,8 @@ I'm Shine Jayakumar, a software engineer from Delhi, India
  - :guitar: I play guitar (acoustic)
  - :basketball: Love playing basketball
  - :movie_camera: a movie lover
+### :eyeglasses: Currently Learning
+- Multiprocessing in Python
 
 ### :book: Currently Reading
 - **Python Tricks** by Dan Bader
