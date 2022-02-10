@@ -13,7 +13,7 @@ I'm Shine Jayakumar, a software engineer from Delhi, India
  - :movie_camera: a movie lover
  
 ### :eyeglasses: Currently Learning
-- Multiprocessing in Python
+- NLP
 
 ### :book: Currently Reading
 - **Python Tricks** by Dan Bader
