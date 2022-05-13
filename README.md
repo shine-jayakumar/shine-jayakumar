@@ -4,21 +4,17 @@
 
 Hi there! :wave:
 
-I'm Shine Jayakumar, a software engineer from Delhi, India
+I'm Shine Jayakumar from India
  - :bulb: Inventive; I love solving problems
- - :blue_book: A reader; :eyeglasses:no glasses though
- - :bike: Love to ride
- - :guitar: I play guitar (acoustic)
- - :basketball: Love playing basketball
- - :movie_camera: a movie lover
+ - :blue_book: Love reading
+
  
 ### :eyeglasses: Currently Learning
 - NLP
 
 ### :book: Currently Reading
-- **Python Tricks** by Dan Bader
-- **Python Parallel Programming Cookbook** by Giancarlo Zaccone
-- **Sapiens** by Yuval Noah Harari
+- **Classic Computer Science Problems in Python** by David Kopec
+
 
 
 ### Programming Languages
