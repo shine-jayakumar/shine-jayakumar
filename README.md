@@ -1,5 +1,7 @@
-### Hi there 👋, my name is Shine
-#### I am a Python Developer
+
+![I am a Python Developer](https://github.com/shine-jayakumar/shine-jayakumar/blob/main/github-header-image.png)
+
+
 I'm Shine from India. I'm a self-taught python developer. I love learning new technologies to solve problems.
 
 
