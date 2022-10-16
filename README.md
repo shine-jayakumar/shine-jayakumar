@@ -2,11 +2,9 @@
 ![I am a Python Developer](https://github.com/shine-jayakumar/shine-jayakumar/blob/main/github-header-image.png)
 
 
-I'm Shine, a self-taught Python developer from India. I love learning new technologies on the go to solve problems.
+I'm Shine, a self-taught programmer from India. I love learning new technologies on the go to solve problems.
 
-I come with quite a few years of experience in the customer service industry. During my time in the industry, I volunteered and took initiatives to solve business problems and automate processes with programming. I learned languages and databases that best suited the nature of the problem; my modest understanding of C and C++ might have helped.
-
-I switched my career and started working as a full-time Python Developer. 
+I currently work as a full-time Python Developer.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
