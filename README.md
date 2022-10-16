@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shine
 #### I am a Python Developer
-I'm Shine from India. I'm a self-taught python developer. I love learning new technologies to solve a problems.
+I'm Shine from India. I'm a self-taught python developer. I love learning new technologies to solve problems.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
