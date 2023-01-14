@@ -2,7 +2,7 @@
 ![I am a Python Developer](https://github.com/shine-jayakumar/shine-jayakumar/blob/main/github-header-image.png)
 
 
-I'm Shine, a self-taught programmer from India. I love learning new technologies on the go to solve problems.
+I'm Shine, a self-taught programmer.
 
 I currently work as a full-time Python Developer.
 
