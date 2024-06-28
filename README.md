@@ -24,10 +24,10 @@ I'm Shine, a self-taught programmer.
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 
-
-:open_book: Reading Python Cookbook by Brian Jones and David M. Beazley
-
-Adiós ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+What's cooking:
+- :blue_book: Python Cookbook by Brian Jones and David M. Beazley
+- :blue_book: :eyeglasses: SOLID principles and Design Patterns
+- Adiós ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 Que pasa ![](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 
 
