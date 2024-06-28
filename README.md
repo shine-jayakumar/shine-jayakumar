@@ -27,8 +27,8 @@ I'm Shine, a self-taught programmer.
 <br/>
 
 What's cooking
-- :blue_book: Python Cookbook by Brian Jones and David M. Beazley
-- :blue_book: :eyeglasses: SOLID principles and Design Patterns
+- :open_book: Python Cookbook by Brian Jones and David M. Beazley
+- :eyeglasses: SOLID principles and Design Patterns
 - Adiós ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ¿Qué pasa ![](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 
