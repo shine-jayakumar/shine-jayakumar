@@ -24,12 +24,15 @@ I'm Shine, a self-taught programmer.
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 
-What's cooking:
+<br/>
+
+What's cooking
 - :blue_book: Python Cookbook by Brian Jones and David M. Beazley
 - :blue_book: :eyeglasses: SOLID principles and Design Patterns
 - Adiós ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-Que pasa ![](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
+¿Qué pasa ![](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 
+<br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shine-jayakumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shine-jayakumar-98262b54//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/6711954/shine-j)  
 
